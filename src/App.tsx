@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <h1>
-      wat-cal
+      wat-cal.
     </h1>
     </>
   );
