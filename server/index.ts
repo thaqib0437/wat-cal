@@ -16,7 +16,7 @@ else{
 app.use(express.static('client/build'))
 
 app.get("/api", (req, res) => {
-    res.json({ message: "watCal webApp Setup branch..." });
+    res.json({ message: "watCal webApp prod file..." });
 });
 
 app.listen(PORT);
